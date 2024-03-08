@@ -1,6 +1,5 @@
 #include "raylib.h"
 
-#include "Linear/Core.h"
 #include "Linear/Matrix.h"
 #include "Linear/Vector.h"
 
