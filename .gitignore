@@ -14,4 +14,4 @@ Makefile
 tags
 
 # Exclude
-!Vendor/
+!Vendor/**
