@@ -1,0 +1,17 @@
+# Directories
+.vs/
+Binaries/
+
+# Files
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+*.sln
+*.log
+Makefile
+
+# for tag referencing
+tags
+
+# Exclude
+!Vendor/
