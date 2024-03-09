@@ -2,6 +2,8 @@
 
 
 ## Build
+
+If you are on Linux, make sure that _/Vendor/Binaries/Premake/Linux/Premake5_ is an executable.
 To configure the project, just run the relevant [setup](Setup) file
 then run 
 ```
