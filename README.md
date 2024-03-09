@@ -3,6 +3,11 @@
 
 ## Build
 To configure the project, just run the relevant [setup](Setup) file
+then run 
+```
+make 
+``` 
+from the project directory
 
 ## Run
 Search for binaries in Binaries/ folder
